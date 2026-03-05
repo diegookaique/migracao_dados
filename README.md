@@ -6,7 +6,7 @@ Case Técnico – Garantia de Integridade e Consistência de Dados
  Diego Kaique - Analista de Dados
 
 ### 🎥 Vídeo explicativo do case:
-🔗 [LINK_DO_VIDEO]
+🔗 [case_tecnico_2.mp4]
 
 ### 📊 Dashboard complementar:
 🔗 [https://calm-data-navigator.lovable.app/]
